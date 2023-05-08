@@ -1,6 +1,6 @@
 
 ## E ai! 👋🏼
-### 🦸🏻‍♀️ Sobre mim
+### :superhero_man:Sobre mim
 <img align='right' src='https://media1.giphy.com/media/citBl9yPwnUOs/giphy.gif?cid=de9bf95ez3x89k1yxi61a900v4qrfqm65v9vrz1zj337o7fu&ep=v1_gifs_search&rid=giphy.gif&ct=g' width='200"'>
 - 🎓 Graduado em Análise e desenvolvimento de sistemas - Fatec Taquaritinga
 - 🚀 Desenvolvedor Back-End
